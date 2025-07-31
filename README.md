@@ -11,15 +11,14 @@
 
 
 <h3>Analista de Dados/ Analista de BI</h3>
-<p align="justfy">Estou mergulhando no mundo de dados, meu objetivo é me tornar um engenheiro de dados em um futuro próximo.
+<p align="justfy">
+  Apaixonado por dados e tecnologia, estou em transição de carreira com foco em me tornar Engenheiro de Dados.  
 <br>
-<p align="justfy"> Estou participando de BootCamps de análise de dados e estudando primeiramente BI ( business Intelligence ) pela FIAP para expandir meu conhcimento na área de negócios
-  e tomar melhores decisões baseadas em dados.
+<p align="justfy"> Atualmente, participo de bootcamps (DIO) e cursos voltados à área de dados, com ênfase inicial em Business Intelligence (BI) pela FIAP, buscando desenvolver uma visão analítica sólida e aprimorar a capacidade de tomar decisões orientadas por dados.
 
-  Atualmente estou buscando uma oportunidade da área de dados para que eu possa aplicar meus conhecimentos e aprendizados e alcançar meu objetivo profissional.
+Estou em busca de uma oportunidade na área de dados onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções baseadas em dados.
 
-  Minha ultima atuação no mercado de trabalho foi como <b>Squad líder</b> em projetos de E-commerce com foco na plataforma VTEX em uma agência de Marketing digital, onde atuei por 3 anos, possuo 
-  atuações também analista de suporte técnico, na área de atendimento administrativo em setores de saúde e orgãos público.
+Minha última experiência profissional foi como Squad Leader em projetos de e-commerce, com foco na plataforma VTEX, atuando por 3 anos em uma agência de marketing digital. Além disso, possuo experiência como analista de suporte técnico e em atendimento administrativo em setores como saúde e órgãos públicos.
    
 </p>
 
