@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/-JohnnyVeridiano-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/johnnyveridiano/) 
 <a href="https://www.linkedin.com/in/johnnyveridiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-<h3 align="left">Competências</h3>
+<h3 align="left">Linguagens e Tecnologias</h3>
 <div>
 <img align="center" alt="Carlos-Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 <img align="center" alt="Carlos-Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
