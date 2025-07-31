@@ -13,7 +13,7 @@
 <h3>Analista de Dados/ Analista de BI</h3>
 <p align="justfy">Estou mergulhando no mundo de dados, meu objetivo é me tornar um engenheiro de dados em um futuro próximo.
 <br>
-<p align="justfy">Atualmente venho participando de BootCamps de análise de dados e estudando primeiramente BI ( business Intelligence ) para expandir meu conhcimento na área de negócios
+<p align="justfy"> Estou participando de BootCamps de análise de dados e estudando primeiramente BI ( business Intelligence ) pela FIAP para expandir meu conhcimento na área de negócios
   e tomar melhores decisões baseadas em dados.
 
   Atualmente estou buscando uma oportunidade da área de dados para que eu possa aplicar meus conhecimentos e aprendizados e alcançar meu objetivo profissional.
